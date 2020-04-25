@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+  }
+
+h1 {
+    font-family: 'Lucida Sans', sans-serif;
+    color: rgb(85, 158, 182);
+    text-align: center;
+}
+
+p{
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+table, th, td {
+    border: 3px solid rgb(85, 158, 182);
+    border-collapse: collapse;
+    padding: 25px;
+    margin: auto;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+
+td {
+font-family:  'Trebuchet MS', sans-serif;
+  }
+
+th {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  width: 20%;
+  height: 20%;
+  padding: 10px;
+}
