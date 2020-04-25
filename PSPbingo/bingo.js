@@ -43,11 +43,10 @@ var result = '';
 for (var row = 0; row < 5; row++) {
   result += '<tr>';
   for (var col = 0; col < 5; col++) {
-   // result += '<td>' + bingowords[row*5 + col] + '</td>';
     if (row == 2 && col == 2){
-      result += '<td>' + "Free Space!"+ '</td>';
+      result += '<td>' + "Free Space!" + '</td>';
     } else {
-      result += '<td>' + bingowords[row*5 + col] + '</td>';
+      result += '<td>' + bingowords[row*5 + col] + '<input type="text"></input>' + '</td>';
     }
   }
   result += '</tr>';
