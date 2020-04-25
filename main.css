@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke;
+  }
+h1 {
+  margin-left: 2%
+}
+
+p {
+    color: black;
+    text-align: start;
+    font-family: geneva, sans-serif;
+    font-size: 13px;
+    margin-left: 2%
+  }
