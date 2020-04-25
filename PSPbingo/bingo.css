@@ -34,3 +34,16 @@ th {
   height: 20%;
   padding: 10px;
 }
+
+input {
+  width: 70%;
+  margin: 8px 8px;
+  padding: 3px 3px;
+  border: none;
+  border-bottom: 2px solid rgb(85, 158, 182);
+  outline: none;
+  font-family:'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 14px;
+  color: rgb(85, 158, 182);
+}
