@@ -44,9 +44,11 @@ for (var row = 0; row < 5; row++) {
   result += '<tr>';
   for (var col = 0; col < 5; col++) {
     if (row == 2 && col == 2){
-      result += '<td>' + "Free Space!" + '</td>';
+     // result += '<td>' + "Free Space!" + '</td>';
+      
+      result += '<td>' + "<img src=https://i.imgur.com/H0EWGn7.png alt=Alfie>" + '</td>';
     } else {
-      result += '<td>' + bingowords[row*5 + col] + '<input type="text"></input>' + '</td>';
+      result += '<td>' + bingowords[row*5 + col] + '<br>' + '<input type="text"></input>' + '</td>';
     }
   }
   result += '</tr>';
