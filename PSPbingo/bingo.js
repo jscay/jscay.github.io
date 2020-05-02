@@ -33,6 +33,9 @@ var bingowords = ['Has had a picnic in their backyard',
 'Has tried to learn a new language via duolingo',
 'Screen time of over 10 hours each day ',
 'Has downloaded a dating app in iso',
+'Has made bread from scratch',
+'Binged tiger king',
+'Woke up to empty zoom tute',
 'Has had their daily routine not change with iso',
 'Has been asked for health advice by family'];
 
