@@ -84,3 +84,13 @@ body {
   .present:hover .promo {
     top: -80px;
   }
+
+  /*click effects */
+  .present:active .lid {
+    top: -100px;
+    transform: rotateZ(10deg);
+    left: 10px;
+  }
+  .present:active .promo {
+    top: -80px;
+  }
